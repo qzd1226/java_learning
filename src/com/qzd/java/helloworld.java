@@ -5,5 +5,6 @@ public class helloworld {
         System.out.println("hello world");
         System.out.println("idea");
         System.out.println("git from idea");
+        System.out.println("push");
     }
 }
