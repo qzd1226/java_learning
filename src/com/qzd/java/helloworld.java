@@ -6,5 +6,6 @@ public class helloworld {
         System.out.println("idea");
         System.out.println("git from idea");
         System.out.println("push");
+        System.out.println("update");
     }
 }
